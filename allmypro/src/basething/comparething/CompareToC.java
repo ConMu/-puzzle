@@ -1,4 +1,4 @@
-package basething.comparerthing;
+package basething.comparething;
 
 import java.util.Set;
 import java.util.TreeSet;
