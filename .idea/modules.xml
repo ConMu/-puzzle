@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SFzuopra/SFzuopra.iml" filepath="$PROJECT_DIR$/SFzuopra/SFzuopra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfzuopra/SFzuopra.iml" filepath="$PROJECT_DIR$/sfzuopra/SFzuopra.iml" />
       <module fileurl="file://$PROJECT_DIR$/allmypro/allmypro.iml" filepath="$PROJECT_DIR$/allmypro/allmypro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetCode.iml" filepath="$PROJECT_DIR$/leetcode/leetCode.iml" />
     </modules>
   </component>
 </project>
