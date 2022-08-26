@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sfzuopra/SFzuopra.iml" filepath="$PROJECT_DIR$/sfzuopra/SFzuopra.iml" />
       <module fileurl="file://$PROJECT_DIR$/allmypro/allmypro.iml" filepath="$PROJECT_DIR$/allmypro/allmypro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build-pattern/build-pattern.iml" filepath="$PROJECT_DIR$/build-pattern/build-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frequencecontrol/frequencecontrol.iml" filepath="$PROJECT_DIR$/frequencecontrol/frequencecontrol.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-testdemo/kafka-testdemo.iml" filepath="$PROJECT_DIR$/kafka-testdemo/kafka-testdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetCode.iml" filepath="$PROJECT_DIR$/leetcode/leetCode.iml" />
     </modules>
